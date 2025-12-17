@@ -26,6 +26,8 @@ data-migration-project/
 ## Project Overview
 Brief description of the migration problem and objectives.
 
+This project documents the process of transitioning from spreadsheets-based data storage to a relational database to improve data consistency, integrity, and scalability. 
+
 ## Business Context
 Why the migration is needed (system upgrade, consolidation, scalability, etc.).
 
